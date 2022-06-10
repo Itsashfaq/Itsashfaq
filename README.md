@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ashfaq
-- 👀 I’m interested in Web devlopment and programming
-- 🌱 I’m currently learning new computer launguages
-- 💞️ I’m looking to collaborate on web devlopment projects
+- 👀 I’m interested in Web development and programming
+- 🌱 I’m currently learning new computer languages
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 reach me mdashfaqhussain22@gmail.com
 
 <!---
